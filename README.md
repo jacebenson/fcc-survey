@@ -45,7 +45,7 @@ git clone https://gitlab.com/jacebenson/fcc-survey.git
 Install the required dependencies
 
 ```sh
-cd fcc-portfolio
+cd fcc-survey
 npm install
 ```
 
